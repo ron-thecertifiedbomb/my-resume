@@ -15,5 +15,5 @@
 .project-list {
   font-size: clamp(0.6rem, 2.5vw, 0.9rem);
   margin-left: 1.5rem;
-  text-align: justify;
+  text-align: start;
 }

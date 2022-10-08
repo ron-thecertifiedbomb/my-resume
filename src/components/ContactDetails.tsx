@@ -22,7 +22,7 @@ const ContactDetails = () => {
     {
       id: 1,
       icon: <AiOutlineMail />,
-      link: <a href="www.google.com" target="_blank">ronan.sibunga@gmail.com</a>,
+      link: <a href="www.google.com" target="_blank">ronan.ramos.sibunga</a>,
     },
 
     {
@@ -56,7 +56,7 @@ const ContactDetails = () => {
         <div className="contact-details-main-wrapper">
           {contactDetails.map((contactDetails, index) => (
             <div className="content-container" key={index}>
-              {contactDetails.icon}
+              <div>{contactDetails.icon}</div>
               <h3 className="link-content">{contactDetails.link}</h3>
             </div>
           ))}

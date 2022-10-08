@@ -9,15 +9,21 @@ body {
   display: flex;
   align-items: center;
   align-content: center;
+ 
+  
 }
 
 .link-content {
-  margin-top: 10px !important;
-  line-height: clamp(4px, 2.5vw, 10px) !important;
+  margin-top: 2px !important;
+  /* line-height: clamp(4px, 2.5vw, 10px) !important; */
   font-size: clamp(0.3rem, 2.5vw, 0.6rem);
-  line-height: clamp(15px, 2.5vw, 15px)  !important;
+  line-height: clamp(5px, 2.5vw, 15px)  !important;
   margin-bottom: 0.4rem;
-  margin-left: 5px;
+  margin-left: 3px;
+  
+ 
+ 
+  
 }
 
 
