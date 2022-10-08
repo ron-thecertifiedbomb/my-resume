@@ -22,24 +22,24 @@ const ContactDetails = () => {
     {
       id: 1,
       icon: <AiOutlineMail />,
-      link: <a href="www.google.com" target="_blank">www.google.com</a>,
+      link: <a href="www.google.com" target="_blank">ronan.sibunga@gmail.com</a>,
     },
 
     {
       id: 2,
       icon: <AiFillLinkedin />,
-      link: <a href="www.linkedin.com">www.linkedin.com</a>,
+      link: <a href="www.linkedin.com">Ronan Sibunga</a>,
     },
     {
       id: 3,
       icon: <GoMarkGithub />,
-      link: <a href="www.github.com">www.github.com</a>,
+      link: <a href="www.github.com">ron-thecertifiedbomb</a>,
     },
 
     {
       id: 4,
       icon: <IoLogoTwitter />,
-      link: <a href="www.twitter.com">www.twitter.com</a>,
+      link: <a href="www.twitter.com">@ronansibunga</a>,
     },
   ];
 
@@ -68,7 +68,7 @@ const ContactDetails = () => {
       <h4 className="education-heading">Education</h4>
       <ul>
         <li className="education-content">
-          Bachelor of Science in Computer Science 2013{" "}
+          Bachelor of Science in Computer Science (2013).
         </li>
       </ul>
     </>

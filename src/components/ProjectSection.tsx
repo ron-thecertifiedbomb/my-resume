@@ -11,13 +11,13 @@ const ProjectSection = () => {
         {
           id: 0,
           name: "Professional Portfolio",
-          para: "A personal webpage serving as a portfolio for my work, also to showcase my expertise and professionalism as front-end developer",
+          para: "A personal webpage serving as a portfolio for my work, also to showcase my expertise and professionalism as front-end developer.",
         },
     
         {
           id: 1,
           name: "Work Hero App",
-          para: "A personal webpage serving as a portfolio for my work, also to showcase my expertise and professionalism as front-end developer",
+          para: "Optimizing the user experience, Developing and maintaining the user interface, Implementing design on mobile websites, Fixing bugs and testing for usability.",
         },
       ];
 

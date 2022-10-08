@@ -19,9 +19,9 @@ export const AboutMe = () => {
           name: "Ronan Sibunga",
           position: "Frontend Developer",
           title: "Skills",
-          technology: "Front-end: ReactJS, Ionic-React, Javascript, Typescript, HTML 5, CSS3, Git",
+          technology: "Front-end: ReactJS, Ionic-React, Javascript, Typescript, HTML 5, CSS3, Git.",
           subtitle: 'Web Design',
-          tools: 'Adobe Photoshop, Figma'
+          tools: 'Adobe Photoshop, Figma.'
         },
     
       ];
