@@ -17,12 +17,12 @@ const WorkExperience = () => {
         },
         {
           id: 2,
-          name: " Environmental Management Bureau (2015-2022) - Technical Assistant..",
+          name: " Environmental Management Bureau (2015-2022) - Technical Assistant.",
       
         },
         {
           id: 3,
-          name: "Department of Environment and Natural Resources - DENR (Foreign Assisted and Special Project Office - FASPO) (2011-2014) - Information Technology Specialist..",
+          name: "Department of Environment and Natural Resources - DENR (Foreign Assisted and Special Project Office - FASPO) (2011-2014) - Information Technology Specialist.",
       
         },
     
