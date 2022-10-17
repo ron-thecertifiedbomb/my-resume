@@ -22,7 +22,7 @@ const WorkExperience = () => {
         },
         {
           id: 3,
-          name: "Department of Environment and Natural Resources - DENR (Foreign Assisted and Special Project Office - FASPO) (2011-2014) - Information Technolorgy Specialist..",
+          name: "Department of Environment and Natural Resources - DENR (Foreign Assisted and Special Project Office - FASPO) (2011-2014) - Information Technology Specialist..",
       
         },
     

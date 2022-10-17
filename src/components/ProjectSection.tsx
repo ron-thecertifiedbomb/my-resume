@@ -2,7 +2,6 @@ import React from 'react'
 import '../components/ProjectSection.css'
 const ProjectSection = () => {
 
-
     const projectSection: {
         id: number;
         name: string;

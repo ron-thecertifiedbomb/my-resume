@@ -13,17 +13,19 @@ body {
   
 }
 
-.link-content {
+.link-content{
   margin-top: 2px !important;
   /* line-height: clamp(4px, 2.5vw, 10px) !important; */
-  font-size: clamp(0.3rem, 2.5vw, 0.6rem);
-  line-height: clamp(5px, 2.5vw, 15px)  !important;
-  margin-bottom: 0.4rem;
-  margin-left: 3px;
-  
- 
- 
-  
+  font-size: clamp(0.5rem, 2.5vw, 0.7rem);
+  line-height: clamp(2px, 2.5vw, 10px)  !important;
+  margin-left: clamp(2px, 2.5vw, 5px);
+}
+
+
+.icon-holder {
+  font-size: large;
+  margin-left: clamp(2px, 2.5vw, 5px);
+  margin-top: 5px;
 }
 
 
@@ -31,7 +33,7 @@ body {
   font-size: clamp(0.2rem, 2.5vw, 0.8rem);
   line-height: clamp(15px, 2.5vw, 10px);
   margin-bottom: 0.4rem;
-  margin-left: 5px;
+  margin-left: clamp(2px, 2.5vw, 5px);
 }
 
 

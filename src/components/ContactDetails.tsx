@@ -56,7 +56,7 @@ const ContactDetails = () => {
         <div className="contact-details-main-wrapper">
           {contactDetails.map((contactDetails, index) => (
             <div className="content-container" key={index}>
-              <div>{contactDetails.icon}</div>
+              <div className="icon-holder">{contactDetails.icon}</div>
               <h3 className="link-content">{contactDetails.link}</h3>
             </div>
           ))}
